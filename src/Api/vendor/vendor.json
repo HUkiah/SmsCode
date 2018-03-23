@@ -1,0 +1,29 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Rt6PB1T00CrKXoEdzVgYDZ9bdSQ=",
+			"path": "Infrastructure/RedisContext",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "c4WYFuXdbNJEhV/wgqdikWecS1Y=",
+			"path": "Service/Submail",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6X3O3mfvOyiwV2iAb5GjxARs08c=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "e8e59ed1cd89662b75af5d1109e39e5dc148cc00",
+			"revisionTime": "2018-03-20T13:09:17Z"
+		},
+		{
+			"checksumSHA1": "TRsWhl8gX4p8xoErljH/oyNmY5M=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "e8e59ed1cd89662b75af5d1109e39e5dc148cc00",
+			"revisionTime": "2018-03-20T13:09:17Z"
+		}
+	],
+	"rootPath": "Api"
+}
